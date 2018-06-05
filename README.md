@@ -3,7 +3,6 @@
 This repository contains the supplementary material for the paper "Market-based Coordination for Integrated Electricity and Natural Gas Systems under Uncertain Supply". This is a joint work by Christos Ordoudis, Stefanos Delikaraoglou, Jalal Kazempour and Pierre Pinson.
 
 In this repository, we provide:
-   5. The data of the case study and the topology of the networks.
    1. The electronic companion.
    2. The xlsx file that containts the data of the case study.
    
